@@ -5,6 +5,7 @@
 This is a simple implementation of the phone book as a console utility.
 Here are the basic functions. You can: delete, add, change entries, save everything to a file and read from it. You can see the weight of the book and the number of entries.
 There is also a search by full name - it is not case sensitive.
+There is some test data in files for tester).
 ## How to start
 1. Clone project:
 ```
